@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python with gui and dbms
 -
 - 📫 How to reach me
-- Here is my Instagtam @shivangg32
+- Here is my Instagtam @shivangg32 https://www.instagram.com/shivangg32/
 - https://rb.gy/fas8x
 
 <!---
